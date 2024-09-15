@@ -85,4 +85,3 @@ def sequence():
     arc_reactor_fade()
 
 sequence()
-# Write your code here :-)
